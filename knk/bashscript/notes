@@ -1,0 +1,4 @@
+ #!/bin/bash/ ===> she bang or hash bang
+ If we use “#” at the starting of the line, this line cannot be executed by the script. Eg: ( # echo Hello  World)
+ If we use “#” at the ending of the line, it means to give some info about that line. Eg: ( echo Hello World # to print echo world)
+
